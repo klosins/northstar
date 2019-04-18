@@ -1,0 +1,499 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
+{\fonttbl\f0\fmodern\fcharset0 Courier;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;\red255\green255\blue255;}
+{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;\cssrgb\c100000\c100000\c100000;}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\sl320\partightenfactor0
+
+\f0\fs28 \cf2 \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 \{'name': ['Ylse van der Schoot',\
+  \{'children': [\{'name': ['Eva Mwai',\
+      \{'children': [\{'name': 'Kibet Cherongis',\
+         'children': [\{'name': 'neighbors in action'\},\
+          \{'name': 'AMPATH'\},\
+          \{'name': 'Ministry of health'\},\
+          \{'name': 'Tunza clinics'\},\
+          \{'name': 'Moi teaching and refferal hospital'\}]\},\
+        \{'name': 'Hadija Seja',\
+         'children': [\{'name': 'tunduma hospital'\},\
+          \{'name': 'mbozi district hospital'\},\
+          \{'name': 'momba city council'\},\
+          \{'name': 'nyati grand hotel'\},\
+          \{'name': 'makambini ward'\},\
+          \{'name': 'isandula ward'\},\
+          \{'name': 'mbozi district council'\}]\},\
+        \{'name': 'Eston Njagi',\
+         'children': [\{'name': 'University of Manitoba (UOM)'\},\
+          \{'name': 'Aids Fonds '\},\
+          \{'name': 'Minitry of Health (MOH) '\},\
+          \{'name': 'National Aids Control Council (NACC) '\},\
+          \{'name': 'National STIs Control Program (NSACOP) '\}]\},\
+        \{'name': 'Silas Inoti',\
+         'children': [\{'name': 'FHI 360'\},\
+          \{'name': 'AIDS Fonds'\},\
+          \{'name': 'University of Manitoba'\},\
+          \{'name': 'Trafigura Foundation'\},\
+          \{'name': 'Impala Logistics'\},\
+          \{'name': 'Puma Energy'\},\
+          \{'name': 'Segul Family Foundation'\},\
+          \{'name': 'National Aids Control Council'\},\
+          \{'name': 'National STI Control Programmme'\},\
+          \{'name': 'Safe way right way'\},\
+          \{'name': 'Total Kenya Limited'\},\
+          \{'name': 'International Initiative for impact  Evaluation'\},\
+          \{'name': 'City University of New York'\},\
+          \{'name': 'SOAAIDS'\},\
+          \{'name': 'Dioraphte Foundation'\},\
+          \{'name': 'National Transport and Safety Authority'\},\
+          \{'name': 'Ministry of Health'\},\
+          \{'name': 'TACAIDS'\},\
+          \{'name': 'Trade Mark East Africa'\},\
+          \{'name': 'East Africa Community'\},\
+          \{'name': 'Kenya Sex Workers Aliance'\},\
+          \{'name': 'Johnson and Johnson'\}]\},\
+        \{'name': 'Edgar Mapunda',\
+         'children': [\{'name': 'Ministry of Health'\},\
+          \{'name': 'Tanzania Commission for AIDS'\},\
+          \{'name': 'National AIDS Control Programme'\},\
+          \{'name': 'Tanzania Roads Agency (TANROADS)'\},\
+          \{'name': 'Puma Energy Tanzania'\},\
+          \{'name': 'Impala Terminals Tanzania'\},\
+          \{'name': 'Bahari Pharmacy '\},\
+          \{'name': 'Temeke Hospital '\},\
+          \{'name': 'Medical Store Department '\}]\},\
+        \{'name': 'Steven Mhando',\
+         'children': [\{'name': 'ITUNDA GOVERNMENT HOSPITAL'\},\
+          \{'name': 'KILOLO DISTRICT COUNCIL'\},\
+          \{'name': 'ILULA TOWNSHIP COUNCIL'\},\
+          \{'name': 'IRINGA RURAL COUNCIL'\}]\},\
+        \{'name': 'Osborne Ndalo',\
+         'children': [\{'name': 'UNIVERSITY OF MANITOBA'\},\
+          \{'name': 'SOAAIDS'\},\
+          \{'name': 'SEAGULL FOUNDATION'\},\
+          \{'name': 'MINISTRY OF HEALTH'\},\
+          \{'name': 'TOTAL KENYA THROUGH SAFEWAY RIGHTWAY '\},\
+          \{'name': 'LIBERTY FOUNDATION'\}]\},\
+        \{'name': 'Mariam Mlimira',\
+         'children': [\{'name': 'WASO'\},\
+          \{'name': 'GBP'\},\
+          \{'name': 'BARRACK HOSPITAL'\},\
+          \{'name': 'PORT HOSPITAL'\},\
+          \{'name': 'BAHARI PHARMACY'\},\
+          \{'name': 'TEMEKE HOSPITAL'\},\
+          \{'name': 'TEMEKE MUNICIPAL'\},\
+          \{'name': 'PUMA'\},\
+          \{'name': 'IMPALA'\},\
+          \{'name': 'TACAIDS'\},\
+          \{'name': 'MSD'\}]\},\
+        \{'name': 'Yusuph M Mbwambo',\
+         'children': [\{'name': 'IOM'\},\
+          \{'name': 'WASO'\},\
+          \{'name': 'PUMA'\},\
+          \{'name': 'IMPALA'\},\
+          \{'name': 'TEMEKE HOSPITAL'\},\
+          \{'name': 'LOCAL GOVERNMENT'\},\
+          \{'name': 'GBP'\},\
+          \{'name': 'PORT HOSPITAL'\},\
+          \{'name': 'TEMEKE MUNICIPAL'\},\
+          \{'name': 'BARRACKS HOSPITAL'\}]\},\
+        \{'name': 'Centinary Gervase',\
+         'children': [\{'name': 'Kamuganguzi HC 3'\}, \{'name': 'Katuna MARPS'\}]\},\
+        \{'name': 'magreth masholla',\
+         'children': [\{'name': 'temeke regional hospital'\},\
+          \{'name': 'WASO'\},\
+          \{'name': 'police   barracks hospital'\},\
+          \{'name': 'puma'\},\
+          \{'name': 'impala'\},\
+          \{'name': 'bandari hospital'\},\
+          \{'name': 'municipal'\}]\},\
+        \{'name': 'Nyabuto (Osoro) Barongo',\
+         'children': [\{'name': 'G4S courier company'\},\
+          \{'name': 'Modern Coast Courier company(MC)'\},\
+          \{'name': 'Mololine Courier Company'\},\
+          \{'name': 'Kampala Coach courier Company'\},\
+          \{'name': 'North Rift Courier Company'\}]\},\
+        \{'name': 'Emmanuel Lemein',\
+         'children': [\{'name': 'Athiriver SC HOSPITAL[MOH]'\},\
+          \{'name': 'Mlolongo H/C[MOH]'\},\
+          \{'name': 'Mlolongo police'\},\
+          \{'name': 'sex workers outreach program[SWOP]'\},\
+          \{'name': 'mlolongo bar owners association'\},\
+          \{'name': 'Machakos refferal hospital'\},\
+          \{'name': 'Machakos ambulance services'\},\
+          \{'name': 'provincial administaration chief'\}]\},\
+        \{'name': 'Charles Ojullo',\
+         'children': [\{'name': 'Malaba health centre (MHC)'\},\
+          \{'name': 'District health office (DHO)'\},\
+          \{'name': 'Malaba Town council (MTC)'\},\
+          \{'name': 'Mukuju health centre 1v'\},\
+          \{'name': 'Uganda police (UP)'\},\
+          \{'name': 'Family health internation (Fhi)'\}]\},\
+        \{'name': 'Stephen Gichina',\
+         'children': [\{'name': 'MINISTRY OF HEALTH-KENYA'\},\
+          \{'name': 'HEAL UBUNTU'\},\
+          \{'name': 'KENYA POLICE'\},\
+          \{'name': 'ADMINISTRATION POLICE'\},\
+          \{'name': 'ZZ BAR AND RESTARUNT'\},\
+          \{'name': 'MAAI MAHIU HOSPITAL'\},\
+          \{'name': 'GREYSAND BAR AND HOTEL'\},\
+          \{'name': 'JORDAN HOTEL'\}]\},\
+        \{'name': 'Richard Ayebare',\
+         'children': [\{'name': 'Ministry of Health Uganda'\},\
+          \{'name': 'Local Governments where clinics are located'\},\
+          \{'name': 'Malaba Health Center III'\},\
+          \{'name': 'Kamuganguzi Health center III'\},\
+          \{'name': 'Uganda AIDS Commission'\},\
+          \{'name': 'Joint Medical Stores'\},\
+          \{'name': 'Bar Owners'\},\
+          \{'name': 'Sex workers'\},\
+          \{'name': 'Long Distence Truckers'\},\
+          \{'name': 'USAID'\}]\},\
+        \{'name': 'NICK NYANDIKA SITIMA',\
+         'children': [\{'name': 'RONGAI HEALTH CENTER'\},\
+          \{'name': 'FAIR'\},\
+          \{'name': 'REDSHANK LIMITED'\},\
+          \{'name': 'ST JOHN AMBULANCE'\},\
+          \{'name': 'RONGAI WORKSHOP'\},\
+          \{'name': 'RONGAI SUPPORT GROUP'\},\
+          \{'name': 'SALGAA SUPPORT GROUP'\},\
+          \{'name': 'NAKURU GENERAL HOSPITAL'\},\
+          \{'name': 'RONGAI POLICE STATION'\}]\},\
+        \{'name': 'Oliver Simiyu',\
+         'children': [\{'name': 'Maai mahiu health centre'\},\
+          \{'name': 'St. Ann medical clinic'\},\
+          \{'name': 'maai mahiu maternity hospital'\},\
+          \{'name': 'maai mahiu watchmen association'\},\
+          \{'name': 'maai mahiu bar and lodging owners association'\},\
+          \{'name': 'kenya police ,maai mahiu police station'\},\
+          \{'name': 'provincial adminstration,maai mahiu chiefs camp'\},\
+          \{'name': 'Naivasha District Hospital'\},\
+          \{'name': 'Comfort the children(CTC)'\},\
+          \{'name': 'Naivasha subcounty ScMOH office'\}]\},\
+        \{'name': 'Jacob Okoth Odhiambo',\
+         'children': [\{'name': 'University of Manitoba (UOM)'\},\
+          \{'name': 'FHi360 (CB-HIPP)'\},\
+          \{'name': 'Ministry of Health (NASCOP)'\},\
+          \{'name': '3iE'\}]\},\
+        \{'name': 'Tom Nasongo',\
+         'children': [\{'name': 'FHI 360 Kenya'\},\
+          \{'name': 'University of Manitoba (UOM)'\},\
+          \{'name': 'National Aids Control Council Program'\},\
+          \{'name': 'Trafigura Foundation'\}]\},\
+        \{'name': 'Samuel Kinyanjui',\
+         'children': [\{'name': 'County Government'\},\
+          \{'name': 'National Government'\},\
+          \{'name': 'UOM'\},\
+          \{'name': 'SOAIDS'\},\
+          \{'name': 'CBHIP'\},\
+          \{'name': 'PUMA'\},\
+          \{'name': 'SEGAL'\},\
+          \{'name': 'ORTEC'\}]\},\
+        \{'name': 'Esther Muigai'\},\
+        \{'name': 'John Mochama',\
+         'children': [\{'name': 'National Aids and STI Coordination Program (NASCOP)'\},\
+          \{'name': 'Kenya National Highways Authority (KeNHA)'\},\
+          \{'name': 'County Health Management Team (CHMT)'\},\
+          \{'name': 'Sub-County Health Management Team (SHMT)'\},\
+          \{'name': 'Ministry of Public Health (MOPH)'\},\
+          \{'name': 'University of Manitoba (UoM)'\},\
+          \{'name': 'Johnson an Johnson (J&J)'\},\
+          \{'name': 'SOAIDS'\},\
+          \{'name': 'FHI 360'\},\
+          \{'name': 'Liberty Foundation'\},\
+          \{'name': 'Total Kenya'\},\
+          \{'name': 'Safe Way Right Way (SWRW)'\},\
+          \{'name': 'Red Shank Flower Farm'\},\
+          \{'name': 'Salgaa Support Group'\},\
+          \{'name': 'Rongai Health Centre'\},\
+          \{'name': 'Local Government'\},\
+          \{'name': 'The Transit Transport Co-Ordination Authority Of The Northern Corridor'\},\
+          \{'name': 'Kenya Long Distance Truck Drivers Union'\},\
+          \{'name': 'Burnt Forest Sub-District Hospital'\},\
+          \{'name': 'Athi River Health Centre'\},\
+          \{'name': 'Kenya Ports Authority'\},\
+          \{'name': 'Neighbours in Action'\},\
+          \{'name': 'Port Reitz Hospital'\}]\},\
+        \{'name': 'Samba Touray',\
+         'children': [\{'name': 'United Nation World Food  Programme(WFP)'\},\
+          \{'name': 'Unite d Nation Population(UNFPA) Fund'\},\
+          \{'name': 'Minister of Health and Social Welfare (MoHSW)'\},\
+          \{'name': 'National AIDS Secretariat (NAS)'\},\
+          \{'name': 'Network of AIDS Service organization (NASO)'\},\
+          \{'name': 'AFPRC General Hospital Farafenni'\},\
+          \{'name': 'Regional Health Directorate North Bank East'\},\
+          \{'name': 'UNAIDS'\},\
+          \{'name': 'Concern Universal'\},\
+          \{'name': 'Dutch Embassy Dakar'\},\
+          \{'name': 'National Food and Agricultural Transportation Union'\},\
+          \{'name': 'Gambia Family Planning Association (GFPA)'\},\
+          \{'name': 'Hands On Care (HoC)'\},\
+          \{'name': 'National AIDS Control Programme (NACP)'\},\
+          \{'name': 'Action aid International The Gambia'\},\
+          \{'name': 'Office of the District Chief '\},\
+          \{'name': 'Truck Drivers association in Farafenni'\},\
+          \{'name': 'Business Community'\},\
+          \{'name': 'Women Groups'\},\
+          \{'name': 'Local Councilor '\},\
+          \{'name': 'Sex Worker Peer Health Educators'\},\
+          \{'name': 'National Road Authority '\},\
+          \{'name': 'Fandima Support Society'\}]\}]\}]\},\
+    \{'name': ['Paul Matthew',\
+      \{'children': [\{'name': 'Juliana Muskwe',\
+         'children': [\{'name': 'National Aids Council'\},\
+          \{'name': 'District Aids Council'\},\
+          \{'name': 'District Hospital'\},\
+          \{'name': 'Beat Aids'\},\
+          \{'name': 'Municipality of Victoria Falls'\},\
+          \{'name': 'Zimbabwe Republic Police-Victim Friendly Unit'\},\
+          \{'name': "President's Office Victoria Falls"\},\
+          \{'name': 'Rose of Charity'\},\
+          \{'name': 'Wankie Colliery Hospital'\},\
+          \{'name': 'St Patricks'\},\
+          \{'name': 'Lukosi Government Hospital'\},\
+          \{'name': 'St Lukes Mission Hospital'\},\
+          \{'name': "Batoka women's group"\},\
+          \{'name': "Batoka Men's Forum"\},\
+          \{'name': "Pastor's Fratenal"\},\
+          \{'name': 'Wilderness Safaries'\},\
+          \{'name': 'Safari Lodge'\},\
+          \{'name': 'Social Welfare'\}]\},\
+        \{'name': 'Thandeka Khoza',\
+         'children': [\{'name': 'Reproductive health and hiv institute (RHI)'\},\
+          \{'name': 'chevron '\},\
+          \{'name': 'department of health '\},\
+          \{'name': 'USAID/ PEPFAR'\},\
+          \{'name': ' '\}]\},\
+        \{'name': 'Maud Mogale',\
+         'children': [\{'name': 'Aidsfonds'\},\
+          \{'name': 'ASWA'\},\
+          \{'name': 'SWEAT'\},\
+          \{'name': 'Sisonke'\},\
+          \{'name': 'SRC'\},\
+          \{'name': 'BONELA'\},\
+          \{'name': 'Womans legal cnt'\}]\},\
+        \{'name': 'Nyarai Shumba',\
+         'children': [\{'name': 'Ministry of Health and Child Care(MOHCC)'\},\
+          \{'name': 'National AIDS Council(NAC)'\},\
+          \{'name': 'SADC'\},\
+          \{'name': 'Family Support Trust(FST)'\},\
+          \{'name': "Ministry of Women's Affairs"\},\
+          \{'name': 'Department of Social Services(DSS)'\},\
+          \{'name': 'Beitbridge Town Council'\},\
+          \{'name': 'Ministry of Local Government'\},\
+          \{'name': 'Zimbabwe Republic Police(ZRP)'\},\
+          \{'name': 'Zimbabwe Revenue Authority(ZIMRA'\},\
+          \{'name': 'Colbro transporters'\},\
+          \{'name': 'Pioneer transporters'\},\
+          \{'name': 'World Vision'\},\
+          \{'name': 'ACTION INSTITUTE'\},\
+          \{'name': 'Chirundu South'\},\
+          \{'name': 'Mussina clinic'\},\
+          \{'name': 'Ministry of Home Affairs'\},\
+          \{'name': 'Women &Law in Southern Africa Research and Education Trust (WLSA)'\},\
+          \{'name': 'Sex worker support groups'\},\
+          \{'name': 'Zimbabwe National Network of People Living with HIV(ZNNP+)'\},\
+          \{'name': 'Victoria Falls clinic'\},\
+          \{'name': 'Medicine San Frontiers(MSF)'\},\
+          \{'name': 'Beitbridge Bussiness Asociation(BBA)'\},\
+          \{'name': 'Truck stops owners'\}]\},\
+        \{'name': 'Annie Jantjie',\
+         'children': [\{'name': 'North Star Alliance'\}]\},\
+        \{'name': 'Lorayne Pillay',\
+         'children': [\{'name': 'PEPFAR'\}, \{'name': 'SADC'\}]\},\
+        \{'name': 'Juliana Muskwe',\
+         'children': [\{'name': 'Victoria Falls District Hospital'\},\
+          \{'name': 'National Aids Council (NAC)'\},\
+          \{'name': 'BEAT AIDs'\},\
+          \{'name': 'Hwange District Hospital'\},\
+          \{'name': 'Zimbabwe Republic Police-Victim Friendly Unit'\},\
+          \{'name': "President's Office"\},\
+          \{'name': 'Chinotimba Clinic'\},\
+          \{'name': 'Wilderness Safaris'\},\
+          \{'name': 'victoria Falls Aviation-Airpot'\},\
+          \{'name': 'Lupinyu Business Centre Growth Point'\},\
+          \{'name': 'Victoria Falls Truck Stop Company'\},\
+          \{'name': 'Hwange Truck Stop Company'\},\
+          \{'name': 'Hwange Colliery Hospital'\},\
+          \{'name': 'Lukosi Government Hospital'\},\
+          \{'name': 'St Patricks Mission Hospital'\},\
+          \{'name': "Batoka Women's Group"\},\
+          \{'name': "Batoka Men's Forum"\},\
+          \{'name': 'Victoria Falls Municipality Social Services department'\}]\},\
+        \{'name': 'Jabulani Makhiya',\
+         'children': [\{'name': 'Tebelopele Voluntary Counselling and Testing Center'\},\
+          \{'name': 'Botswana Family Welfare Organisation '\}]\},\
+        \{'name': 'Pomona',\
+         'children': [\{'name': 'Depart of Health (DoH)'\},\
+          \{'name': 'Bonero Park Clinic'\},\
+          \{'name': 'Pomona Truck stop '\},\
+          \{'name': 'Wits Reproductive Health (WRHI)'\},\
+          \{'name': 'FONDS'\}]\},\
+        \{'name': 'Jenifer Tavengerwei',\
+         'children': [\{'name': 'North Star Alliance (NSA)'\},\
+          \{'name': 'M\'c3\'a9decins Sans Fronti\'c3\'a8res (MSF)'\},\
+          \{'name': 'Ministry of Health'\},\
+          \{'name': 'Municipal Council'\}]\},\
+        \{'name': 'Bright Chiranga',\
+         'children': [\{'name': 'Wits Reproductive Health Institute (RHI)'\},\
+          \{'name': 'United States Agency for International Development (USAID) '\},\
+          \{'name': 'Presidential Emergency Plan for AIDS Response (PEPFAR)'\},\
+          \{'name': 'Southern African Development Community (SADC)'\},\
+          \{'name': 'Global Fund forTuberculosis, AIDS and Malaria (GFTAM)'\},\
+          \{'name': 'The Netherlands Government (Dutch Government)'\},\
+          \{'name': 'Aids Fonds'\},\
+          \{'name': 'Stop Aids'\},\
+          \{'name': 'Chevron'\},\
+          \{'name': 'Johnson & Johnson'\},\
+          \{'name': 'Wits Health Consortium (WHC)'\},\
+          \{'name': 'Management Sciences for Health, Inc (MSH)'\},\
+          \{'name': 'Foundation for Professional Development (FPD)'\},\
+          \{'name': 'Doctors without Borders (MSF)'\},\
+          \{'name': 'South African National Aids Council (SANAC)'\},\
+          \{'name': 'National Department of Health (NDOH)'\},\
+          \{'name': 'Interactive Research & Development (IRD)'\},\
+          \{'name': 'Road Freight Association (RFA)'\},\
+          \{'name': 'South African Business Council on HIV and AIDS (SABCOHA)'\},\
+          \{'name': 'Family Health International (FHI360)'\},\
+          \{'name': 'PUMA Energy Foundation'\},\
+          \{'name': 'Enhanced Care Foundation (ECF)'\},\
+          \{'name': 'HEARD'\}]\},\
+        \{'name': 'Bronwyn Cawood',\
+         'children': [\{'name': 'WITS RHI'\}, \{'name': 'CHEVRON'\}]\},\
+        \{'name': 'Andre Oosthuizen',\
+         'children': [\{'name': 'Enhanced Care Foundation'\},\
+          \{'name': 'Wits Health Consortium'\}]\},\
+        \{'name': 'Rozaan van der Westhuysen',\
+         'children': [\{'name': 'RHI/PEPFAR'\},\
+          \{'name': 'SADC/GLOBAL FUND'\},\
+          \{'name': 'HEARD'\},\
+          \{'name': 'WITS HEALTH'\},\
+          \{'name': 'DUTCH GOVERMENT'\},\
+          \{'name': 'CHEVRON'\},\
+          \{'name': 'UNITRANS SWAZILAND'\},\
+          \{'name': 'SOAAIDS/AIDSFONDS'\},\
+          \{'name': 'PFIZER'\},\
+          \{'name': 'DOH'\}]\},\
+        \{'name': 'Mandla Bhebhe',\
+         'children': [\{'name': 'ministry of health'\},\
+          \{'name': 'Swaziland positive living (SWAPOL)'\},\
+          \{'name': 'Ngwenya town board'\},\
+          \{'name': 'Human Communication Capacity collaboration'\},\
+          \{'name': 'Motjane clinic'\}]\},\
+        \{'name': 'Thandi Manzini',\
+         'children': [\{'name': 'Department of Health'\},\
+          \{'name': 'SAPPI (Busness (PVT)'\},\
+          \{'name': 'Right to Care (NGO)'\},\
+          \{'name': 'PSA South Africa'\},\
+          \{'name': 'GRIP (NGO)'\},\
+          \{'name': 'RHI'\}]\},\
+        \{'name': 'Tyla Coppinger',\
+         'children': [\{'name': 'Wits RHI'\},\
+          \{'name': 'PEPFAR'\},\
+          \{'name': 'SADC'\},\
+          \{'name': 'Global Fund'\}]\},\
+        \{'name': 'Garry de la Rue',\
+         'children': [\{'name': 'AidsFonds'\},\
+          \{'name': 'SADC'\},\
+          \{'name': 'WRHI'\},\
+          \{'name': 'PEPFAR'\},\
+          \{'name': 'Provincial Ministries of Health'\},\
+          \{'name': 'Family Aids Caring Trust (FACT) '\},\
+          \{'name': 'I-Teach'\}]\},\
+        \{'name': 'Esti Nell',\
+         'children': [\{'name': 'Wits Reproductive Health Institute (RHI)'\},\
+          \{'name': 'Chevron'\},\
+          \{'name': 'Southern African Development Community (SADC)'\},\
+          \{'name': 'Unitrans'\},\
+          \{'name': 'Dutch Embassy'\},\
+          \{'name': ' Foundation for Professional Development (FPD)'\},\
+          \{'name': 'Road Freight Industry (RFA)'\}]\},\
+        \{'name': 'Sibonelo Khomo',\
+         'children': [\{'name': 'SADC'\},\
+          \{'name': 'Pepfar'\},\
+          \{'name': 'RHI'\},\
+          \{'name': 'DOH'\},\
+          \{'name': 'Unitrans'\},\
+          \{'name': 'Chevron'\},\
+          \{'name': 'Pfizer'\},\
+          \{'name': 'iTeach'\}]\},\
+        \{'name': 'Michael Becker',\
+         'children': [\{'name': 'Ministry of Health MOH - All countries'\},\
+          \{'name': 'Unitrans Swaziland'\},\
+          \{'name': 'Chevron'\},\
+          \{'name': 'PEPFAR / USAID'\},\
+          \{'name': 'RHI'\},\
+          \{'name': 'Family Aids Caring Trust - FACT'\},\
+          \{'name': 'Southern Africa Development Community - SADC'\},\
+          \{'name': 'Pfizer'\},\
+          \{'name': 'Doctors without borders - MSF Malawi'\},\
+          \{'name': 'ITEACH'\}]\},\
+        \{'name': 'Thapelo Morapeli',\
+         'children': [\{'name': 'Free State Department of Health (FSDOH)'\},\
+          \{'name': 'Life Line'\},\
+          \{'name': 'New Start'\},\
+          \{'name': 'Right to care'\}]\},\
+        \{'name': 'Charmaine Horner',\
+         'children': [\{'name': 'Unitrans'\},\
+          \{'name': 'Chevron'\},\
+          \{'name': 'RHI'\},\
+          \{'name': 'Global Fund'\},\
+          \{'name': 'Department of Health'\},\
+          \{'name': 'Usaid'\}]\},\
+        \{'name': 'Audhriech Kadyakapita',\
+         'children': [\{'name': 'Department of Health'\},\
+          \{'name': 'WHRI'\},\
+          \{'name': 'Luke International'\},\
+          \{'name': 'iTEACH'\},\
+          \{'name': 'Family AIDS Caring Trust (FACT)-Zimbabwe'\},\
+          \{'name': 'MSF'\}]\},\
+        \{'name': 'Amon Tisibele',\
+         'children': [\{'name': 'Chirundu Government Clinic'\},\
+          \{'name': 'Karoi Hospital'\},\
+          \{'name': 'Mtendere Mission nHospital'\},\
+          \{'name': 'National AIDS Council(NAC)'\},\
+          \{'name': 'Chirundu Local Board(CLB)'\},\
+          \{'name': 'Zimbabwe Republic Police( ZRP)'\},\
+          \{'name': 'Zimbabwe Revenue Authority(ZIMRA)'\},\
+          \{'name': 'Immigration Department'\},\
+          \{'name': 'GDC Whelson Transporters'\},\
+          \{'name': 'SABOT Transport'\},\
+          \{'name': 'Biltrans Transport'\},\
+          \{'name': 'Wilderness Safaris'\},\
+          \{'name': 'Jecha Point Safaris'\},\
+          \{'name': 'Chirundu Motel'\},\
+          \{'name': 'Chirundu Estate'\},\
+          \{'name': 'RAM Petrolleum'\},\
+          \{'name': 'PENDHOCK Clearing Agents'\},\
+          \{'name': 'Pastors Fraternal Group'\}]\},\
+        \{'name': 'Michael Hazemba',\
+         'children': [\{'name': 'Chirundu District Health office'\},\
+          \{'name': 'District administrative office'\},\
+          \{'name': 'Mtendere Mission Hospital '\},\
+          \{'name': 'Kapururila rural Health center'\},\
+          \{'name': 'Customs office'\},\
+          \{'name': 'intra-Health office'\},\
+          \{'name': 'Chirundu District Council'\},\
+          \{'name': 'Modern voice radio station'\},\
+          \{'name': 'Market '\},\
+          \{'name': 'Bars and beer outlets'\},\
+          \{'name': 'community development'\},\
+          \{'name': 'social walfare '\},\
+          \{'name': 'chirundu police station'\}]\},\
+        \{'name': 'Preggie Pillay',\
+         'children': [\{'name': 'Global Fund'\},\
+          \{'name': 'SADC'\},\
+          \{'name': 'PepFAR'\},\
+          \{'name': 'WHRI'\},\
+          \{'name': 'USAID'\},\
+          \{'name': 'AIDFONDS'\},\
+          \{'name': 'HANDS OFF'\},\
+          \{'name': 'FHI'\},\
+          \{'name': 'CHEVRON'\}]\},\
+        \{'name': 'Makalo Moses Nathane',\
+         'children': [\{'name': 'Ministry of Health'\},\
+          \{'name': 'SADC'\},\
+          \{'name': 'Right To Care'\},\
+          \{'name': 'Boarder Control'\},\
+          \{'name': 'Lesotho Ministry of Health'\}]\}]\}]\}]\}]\}\
+}
